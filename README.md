@@ -1,4 +1,4 @@
-# Custom Offensive tools made for the sake of Learning Tools 🛠️
+# Custom List Offensive tools made for the sake of Learning  🛠️
 
 A collection of **custom-made tools** created for learning and experimentation with programming concepts.
 

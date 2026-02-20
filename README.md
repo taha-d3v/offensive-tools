@@ -4,7 +4,6 @@ A collection of **custom-made tools** created for learning and experimentation w
 
 ## Table of Contents
 
-- [Tools](#tools)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
